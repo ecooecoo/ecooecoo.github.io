@@ -17,6 +17,10 @@ Other
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[self](https://cdn.discordapp.com/attachments/531598247559692298/714393992430878750/IMG_3701.jpg)
 
-Social:&nbsp; [reddit](https://www.reddit.com/user/snowyknows/) &nbsp;\|&nbsp; [steam](https://discord.gg/Uw3Nrjv) &nbsp;\|&nbsp; [discord server](https://discord.gg/Uw3Nrjv) &nbsp;\|&nbsp; tiktok: @snowyletariat
+<br><br><br>
+
+---
+
+[reddit](https://www.reddit.com/user/snowyknows/) &nbsp;\|&nbsp; [steam](https://discord.gg/Uw3Nrjv) &nbsp;\|&nbsp; [discord server](https://discord.gg/Uw3Nrjv) &nbsp;\|&nbsp; tiktok: @snowyletariat
 
 
