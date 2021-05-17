@@ -5,7 +5,6 @@ date:   2021-05-16 10:00:00 -0700
 categories: 
 ---
 
-
 ### Summary
 For the quick rundown of my favorite anime shows: 
 1. Welcome to the N.H.K. 
