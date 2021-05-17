@@ -13,7 +13,7 @@ For the quick rundown of my favorite anime movies:
 3. Neon Genesis Evangelion: The End of Evangelion
 4. Grave of the Fireflies
 
-Notable mentions (In no particuliar order):
+Notable mentions (in no particuliar order):
 - Millenium Actress
 - Only Yesterday
 - Akira

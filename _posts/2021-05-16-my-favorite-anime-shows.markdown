@@ -12,7 +12,7 @@ For the quick rundown of my favorite anime shows:
 3. Neon Genesis Evangelion
 4. Serial Experiments Lain
 
-Notable Mentions (In no particular order):
+Notable mentions (in no particular order):
 - Cowboy Bebop
 - Paranoia Agent
 - Texhonolyze
@@ -41,7 +41,7 @@ The show reveals that Misaki also suffers from trauma and has negative behaviora
 
 Upon reflection, I think that I enjoyed the show because of how visceral and directly relatable the themes were. The writer of the original story suffered from, and overcame, hikikomori. This probably made him especially apt to describing the emotional journey of overcoming conditions like the lack of self confidence, social anxiety, and depression. 
 
-Welcome to the N.H.K.'s soundtrack is also incredibly moving. Two of my favorite songs, [Hitori no Tame no Lullaby](https://www.youtube.com/watch?v=DG_Yejl-0WM) and [Youkoso! Hitori Bocchi](https://www.youtube.com/watch?v=_Ei2izPLpHc), are masterfully weaved into important moments so that they are unforgettable. Even now when I listen to them, I am sent into a strong catharsis that emotionally reminds me of how I felt back when I first watched the show. 
+Welcome to the N.H.K.'s soundtrack is also incredibly moving. Two of my favorite songs, [Hitori no Tame no Lullaby](https://www.youtube.com/watch?v=DG_Yejl-0WM) and [Youkoso! Hitori Bocchi](https://www.youtube.com/watch?v=_Ei2izPLpHc), are masterfully woven into important moments so that they are unforgettable. Even now when I listen to them, I am sent into a strong catharsis that emotionally reminds me of how I felt back when I first watched the show. 
 
 ### 2. Ergo Proxy
 

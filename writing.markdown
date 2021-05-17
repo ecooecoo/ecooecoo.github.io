@@ -6,7 +6,7 @@ permalink: /writing/
 
 Physics
 
-- Classical Mechanics
+- <a href="/files/The Essentials of Classical Mechanics.pdf" download>The Essentials of Classical Mechanics</a>
 - Electromagnetism
 
 Sociology
