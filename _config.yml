@@ -27,10 +27,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: 
 header_pages:
-  - blog.markdown
-  - chester-the-birb.markdown
+  - blog.markdown 
   - writing.markdown
-  - misaki.markdown
+  - chester-the-birb.markdown
 future: true
 
 # Build settings
