@@ -5,7 +5,7 @@ date:   2021-06-02 11:30:00 -0700
 categories: 
 ---
 
-## Contents
+# Contents
 
 - 1\. What is Race?
 - 2\. Race as a Social Phenomenon
@@ -25,7 +25,7 @@ categories:
 
 ## 1. What is Race? 
 
-Race was invented as a way to categorize groups of humans (and by extension, individuals) based on physical and social characteristics. The meaning of race, such as the perceptions and stereotypes assigned to different races, and the categories of racial groups are continually changing and are contingent on the social context of a particular time and place. Two aspects of race include:
+Race was invented as a way to categorize groups of humans (and by extension, individuals) based on physical and social characteristics. [@smedleyRaceBiologyFiction2005, p. 3] The meaning of race, such as the perceptions and stereotypes assigned to different races, and the categories of racial groups are continually changing and are contingent on the social context of a particular time and place. Two aspects of race include:
 - Race as a social phenomenon
 - Race as a biological concept 
 
@@ -33,11 +33,11 @@ These two aspects are, of course, interrelated. Outdated and unscientific concep
 
 ## 2. Race as a Social Phenomenon
 
-As stated by Goodman et al., "We live in a society saturated with race." Racial thinking is used as a way to understand the diverse forms of human physicality and social expression. Often, racial thinking is inaccurate and inadequate for understanding and explaining the nature and various mechanisms of human diversity. Nonetheless, it plays a major role in shaping our interpretations of individual and group differences as well as our social networks and material relations. We identify with racial categories and experience the associated effects of in-group and out-group racial dynamics. The reality of race begs some interesting questions: has race always existed? How did race become so central to our lives?
+As stated by Goodman et al., "We live in a society saturated with race.". Racial thinking is used as a way to understand the diverse forms of human physicality and social expression. Often, racial thinking is inaccurate and inadequate for understanding and explaining the nature and various mechanisms of human diversity. Nonetheless, it plays a major role in shaping our interpretations of individual and group differences as well as our social networks and material relations. We identify with racial categories and experience the associated effects of in-group and out-group racial dynamics. The reality of race begs some interesting questions: has race always existed? How did race become so central to our lives?
 
-History has shown that various social constructs have existed through which people have been categorized and discriminated based on. Social constructs are malleable, with new modes constantly forming and deforming, and are contingent on the social, political, and economic context of a particular time and place. Like gender and class, race is a social construct: a system of ideas, identities, and material relations that developed historically. The body of existing anthropological, historical, and sociological knowledge has shown that race, in its modern form, emerged gradually within the context of Western European imperialism and colonial expansion beginning in the 15th century. We will find that the incredible pervasiveness and durableness of race formed from a historical development where the "forces of tradition, religion, law, and science conspired, and at times competed, to define and influence human diversity." 
+History has shown that various social constructs have existed through which people use to create shared understandings about the world. Social constructs are malleable, with new modes constantly forming and deforming, and are contingent on the social, political, and economic context of a particular time and place. Like gender and class, race is a social construct: a system of ideas, identities, and material relations that developed historically. The body of existing anthropological, historical, and sociological knowledge has shown that race, in its modern form, emerged gradually within the context of Western European imperialism and colonial expansion beginning in the 15th century. We will find that the incredible pervasiveness and durableness of race formed from a historical development where the "forces of tradition, religion, law, and science conspired, and at times competed, to define and influence human diversity." 
 
-### 2.1 The Origin of Race 
+### 2.1. The Origin of Race 
 
 #### 2.1.1. A Relatively Recent Invention
 
@@ -58,13 +58,13 @@ Continuing, Smedley explains the history of how the modern conception of race gr
 >
 > He adds, “It was common for servants and slaves to run away together, steal hogs together, get drunk together. It was not uncommon for them to make love together” (327). Indeed, there was no stigma associated with what we today call “interracial” marriages.
 > 
-> Until the early 18th century, the image of Africans among most Europeans was generally positive. They were farmers and cattle-breeders; they had industries, arts and crafts, governments, and commerce. Moreover, they had immunities to Old World diseases, they were better laborers under the tropical conditions of the southern settlements; and they had nowhere to run  and hide once transplanted to the New World (E. Morgan 1975; Smedley 2007).
+> Until the early 18th century, the image of Africans among most Europeans was generally positive. They were farmers and cattle-breeders; they had industries, arts and crafts, governments, and commerce. Moreover, they had immunities to Old World diseases, they were better laborers under the tropical conditions of the southern settlements; and they had nowhere to run and hide once transplanted to the New World (E. Morgan 1975; Smedley 2007).
 
 To summarize the situation so far as of the early 18th century, we find that racial thinking had not yet taken hold.  Slaves and indentured servants - irregardless of their ancestral roots, whether they were from Africa or Europe - worked alongside each other and were treated similarly. Those with ancestral roots from Africa were treated similarly to other people of the same class and were assimilated into colonial society. 
 
 The social, economic, and political situation of the mid 17th century would set the context through which colony leaders were motivated to impose social controls over the population to prevent rebellion. By then, economic inequality had developed to where few men from among the earliest settlers controlled most of the fertile land, having established large plantations growing crops such as tobacco. Poor servants who had achieved freedom, which included people with ancestral roots from Europe, Africa, and the Americas, found it difficult to acquire land and were unhappy with the corruption and abuse of power on the part of the wealthy men who ruled the colonies. The class conflict between the poor and the wealthy land owners incited rebellions, robberies, and contempt towards colony leaders. 
 
-The most famous rebellion occurred in 1676 where Nathaniel Bacon led an uprising of thousands of poor workers, composed of an alliance between European indentured servants and Africans, to advance their class interests and to confront the corruption of colony leaders. As explained by Smedley,
+The most famous rebellion occurred in 1676 where Nathaniel Bacon led an uprising of thousands of poor workers, composed of an alliance between European indentured servants and Africans, to advance their class interests and to confront the corruption of colony leaders. As Smedley explains,
 > Led by Nathaniel Bacon, this uprising of thousands of poor workers in Virginia was the first major threat to social stability. The rebellion dissipated after Bacon’s death, but British royal commissioners sent out to suppress the uprising realized the population at large had supported the rebellion and were “sullen and obstinate.” On one occasion they faced a dissatisfied “rabble” of “400 African and 600 or 700 European bond laborers, chiefly Irish” (Allen 1994:218). 
 
 #### 2.1.3. Establishing Racial Slavery 
@@ -87,18 +87,16 @@ The rights and social, political, and economic mobility of Africans, who were no
 
 #### 2.1.4. The Emergence of Race
 
-As the laws began to change in order to restrict the social, political, and economic mobility of Africans and to demarcate them as permanent slaves, new social categories - what we would think of as race in the present - emerged in response. As described by Smedley, 
+As the laws began to change in order to restrict the social, political, and economic mobility of Africans and to demarcate them as permanent slaves, new social categories - what we would think of as race in the present - emerged in response. Smedley describes how
 > Colonial leaders were simultaneously doing something else: they were laying the basis for the invention of the idea of race and racial identities. They began to homogenize all Europeans, regardless of ethnicity, status, or social class, into a new category. The first time the term “white,” rather than “Christian” or an ethnic name (English, Irish, Scots, Portuguese, German, Spanish, Swede), appeared in the public record was seen in a law passed in 1691 that prohibited the marriages of Europeans (“whites”) with Negroes, Indians, and mulattoes (Smedley 2007:118). A clearly separated category of Negroes as slaves allowed newly freed European servants opportunities to realize their ambitions and to identify common interests with the wealthy and powerful. New laws offered material advantages and social privileges to poor whites. In this way, colony leaders consciously contrived a social control mechanism to prevent the unification of the working poor (Allen 1997). Physical features became markers of racial (social) status. As Virginia’s governor William Gooch asserted, the assembly sought to “fix a perpetual Brand upon Free Negroes and Mulattos” (Allen 1997 :242).
 
-To summarize, race is not just an abstract idea. Echoing the the analysis of race as a social construct, we find that it is a system of ideas, identities, and material relations. It developed historically within the context of Western European Imperialism and Colonial Expansion in the Americas where colony leaders, by the end of the 17th century, sought ways to control the population to ensure that a sufficient number of easily controlled laborers was available to plantation owners. 
+To summarize, race is not just an abstract idea. Echoing the the analysis of race as a social construct, we find that it is a system of ideas, identities, and material relations. It developed historically within the context of Western European Imperialism and Colonial Expansion in the Americas where colony leaders, by the end of the 17th century, sought ways to control the population to ensure that a sufficient number of easily controlled laborers was available to plantation owners. To do this, a series of laws were passed to strip the rights of Africans in order to establish a reserve of easily controlled workers. The institutional reasons Africans were targeted include the desire of the powerful and wealthy to easily separate the working class based on physical characteristics (effective and easily identifiable social control), the increased slave availability from Africa, the changing migration patterns of Europeans and Africans, and the unfamiliarity of Africans who were brought over from Africa with European languages, customs, and traditions. 
 
-Starting towards the end of the 17th century, a series of laws were passed to strip the rights of Africans in order to establish a reserve of easily controlled workers. The institutional reasons Africans were targeted include the desire of the powerful and wealthy to easily separate the working class based on physical characteristics (effective and easily identifiable social control), the increased slave availability from Africa, the changing migration patterns of Europeans and Africans, and the unfamiliarity of Africans who were brought over from Africa with European languages, customs, and traditions. 
-
-As Africans were legally targeted, new social categories - notably, race - emerged. The clearly separated category of Africans as slaves meant that freed Europeans identified common interests with the wealthy and powerful. New laws offered material advantages and social privileges to those who were "white", a term which only emerged in 1691 in a law that demarcated Europeans as "whites" and prevented the marriage of "whites" with Negroes, Indians, and mulattoes. Within the new material context of Africans as slaves, race began to take a suffocatingly strong social grip on how we understand human diversity as material oppression and privilege began to be essentialized with racial categories. 
+As Africans were legally targeted which constituted new material relations, new social categories - notably, race - emerged. The clearly separated category of Africans as slaves meant that freed Europeans identified common interests with the wealthy and powerful. New laws offered material advantages and social privileges to those who were "white", a term which only emerged in 1691 in a law that demarcated European ethnic groups as "whites" and prevented the marriage of "whites" with Negroes, Indians, and mulattoes. Within the new material context of Africans as slaves, race began to hold a suffocatingly strong grip on how we understand human diversity as material oppression and privilege began to be essentialized with racial categories. 
 
 ### A Time Before Race
 
-### Racial Hierarchy
+### Tools to Understand Racial Hierarchy
 
 ## Race as a Biological Concept
 
@@ -111,7 +109,3 @@ As Africans were legally targeted, new social categories - notably, race - emerg
 ### Genetic Genealogical Testing
 
 ## FAQ
-
-## References
-
-“RACE: Are We So Different? - Learn and Teach.” Accessed May 31, 2021. https://www.americananthro.org/LearnAndTeach/Content.aspx?ItemNumber=2062.
