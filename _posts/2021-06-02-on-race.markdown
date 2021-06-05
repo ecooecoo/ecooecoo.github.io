@@ -12,10 +12,11 @@ categories:
 	- 2\.1\. The Origin of Race
 		- 2\.1\.1\. A Relatively Recent Invention
 		- 2\.1\.2\. Western European Imperialism and Colonial Expansion in the Americas
-		- 2\.1\.3\. Establishing Racial Slavery
+		- 2\.1\.3\. From Slavery to Racial Slavery
 		- 2\.1\.4\. The Emergence of Race
-	- 2\.2\. A Time Before Race
-	- 2\.3\. Racial Hierarchy
+	- 2\.2\. A History of Race Ideology
+	- 2\.3\. A Time Before Race
+	- 2\.4\. Tools to Understand Racial Hierarchy
 - 3\. Race as a Biological Concept
 	- 3\.1\. Human Variation
 	- 3\.2\. The Myth of Racial Diseases: Sickle Cell Disease
@@ -25,7 +26,7 @@ categories:
 
 ## 1. What is Race? 
 
-Race was invented as a way to categorize groups of humans (and by extension, individuals) based on physical and social characteristics. [@smedleyRaceBiologyFiction2005, p. 3] The meaning of race, such as the perceptions and stereotypes assigned to different races, and the categories of racial groups are continually changing and are contingent on the social context of a particular time and place. Two aspects of race include:
+Race was invented as a way to categorize groups of humans (and by extension, individuals) based on physical and social characteristics. The meaning of race, such as the perceptions and stereotypes assigned to different races, and the categories of racial groups are continually changing and are contingent on the social context of a particular time and place. Two aspects of race include:
 - Race as a social phenomenon
 - Race as a biological concept 
 
@@ -67,7 +68,7 @@ The social, economic, and political situation of the mid 17th century would set 
 The most famous rebellion occurred in 1676 where Nathaniel Bacon led an uprising of thousands of poor workers, composed of an alliance between European indentured servants and Africans, to advance their class interests and to confront the corruption of colony leaders. As Smedley explains,
 > Led by Nathaniel Bacon, this uprising of thousands of poor workers in Virginia was the first major threat to social stability. The rebellion dissipated after Bacon’s death, but British royal commissioners sent out to suppress the uprising realized the population at large had supported the rebellion and were “sullen and obstinate.” On one occasion they faced a dissatisfied “rabble” of “400 African and 600 or 700 European bond laborers, chiefly Irish” (Allen 1994:218). 
 
-#### 2.1.3. Establishing Racial Slavery 
+#### 2.1.3. From Slavery to Racial Slavery 
 
 The state of social discontent by the end of the 17th century, which culminated in Bacon's Rebellion, scared colony leaders and the wealthy and motivated them to seek new ways to protect their class interests and power. As described by Smedley, "The colony leaders soon recognized the need for a strategy to prevent such occurrences in the future and to ensure that a sufficient number of easily controlled laborers were made available to plantation owners."
 
@@ -93,6 +94,32 @@ As the laws began to change in order to restrict the social, political, and econ
 To summarize, race is not just an abstract idea. Echoing the the analysis of race as a social construct, we find that it is a system of ideas, identities, and material relations. It developed historically within the context of Western European Imperialism and Colonial Expansion in the Americas where colony leaders, by the end of the 17th century, sought ways to control the population to ensure that a sufficient number of easily controlled laborers was available to plantation owners. To do this, a series of laws were passed to strip the rights of Africans in order to establish a reserve of easily controlled workers. The institutional reasons Africans were targeted include the desire of the powerful and wealthy to easily separate the working class based on physical characteristics (effective and easily identifiable social control), the increased slave availability from Africa, the changing migration patterns of Europeans and Africans, and the unfamiliarity of Africans who were brought over from Africa with European languages, customs, and traditions. 
 
 As Africans were legally targeted which constituted new material relations, new social categories - notably, race - emerged. The clearly separated category of Africans as slaves meant that freed Europeans identified common interests with the wealthy and powerful. New laws offered material advantages and social privileges to those who were "white", a term which only emerged in 1691 in a law that demarcated European ethnic groups as "whites" and prevented the marriage of "whites" with Negroes, Indians, and mulattoes. Within the new material context of Africans as slaves, race began to hold a suffocatingly strong grip on how we understand human diversity as material oppression and privilege began to be essentialized with racial categories. 
+
+### A History of Race Ideology
+
+The development of the material relations that gave rise to racial slavery was motivated by colony leaders and the wealthy to maintain a population of easily controlled laborers who were available to plantation owners. Developing alongside the institutional rearrangement (through law) of material relations was new social ideas, ideologies, and identities. In our case, we find that race ideology developed alongside the establishment material relations which constituted slavery targeted at Africans within the colonies of the Americas. Race ideology developed because humans assign social meaning in order to interpret and justify the changing material landscape. As Africans were institutionally degraded of their social class and mobility, new ideas, what we now call race, were introduced to interpret and justify their new social position. Conversely, these new racial ideas would then be used to interpret and justify the distribution of material conditions among different racial population. This feedback loop is essentially the classic cycle of material relations (the distribution of control over capital) reinforcing the social superstructure (law, politics, art, culture etc.) and vice versa. As Smedley puts it, 
+> *What colony leaders were doing was establishing unequal groups, called races, and imposing different social meanings on them*. As they created the institutional and behavioral aspects of slavery, the colonists were simultaneously structuring the ideological components of race.  
+
+The system of slavery that the colonies established towards the end of the 17th century and into the early 18th century was not, in and of itself, racial slavery. It became racial slavery when race ideology developed alongside it in order to interpret and justify the rearrangement of material conditions along racial lines. In this sense, racial slavery is the the material relations of slavery holistically combined with race ideology. 
+
+The cultural basis which race ideology initially borrowed from was the idea of a "savage." Smedley describes how 
+> The first “savages” that the English had created in their minds were the “wild Irish.” In the late 16th century, after centuries of conflict and brutal warfare with the Irish, Queen Elizabeth declared that the Irish were natural “savages” incapable of civilization.
+
+With the "savage" characterization firmly implanted in the minds of the English from their experience with the Irish, the next population to be designated with the label were Native Americans. As Smedley puts it, 
+> Native Americans had been deemed “savages” when they resisted English appropriation of their lands, but this image began to change in the late 18th century to a more benign “noble savage.” By then most Native Americans were dying out or had been forcibly driven onto reservations, a process begun in the previous century in the northeast colonies.
+
+Continuing, Smedley describes how colony leaders invented race ideology by applying the savage characterization to Africans after reducing them to permanent slavery: 
+> Now, by reducing Africans to permanent slavery, prohibiting owners from freeing slaves, and preventing their education and training, the English invented a new savage. From the 18th century on, negative characterizations of Africans formed part of a new rationalization for enslavement. These became the stereotypes of races and race differences that we inherited in the 19th and 20th centuries. 
+
+We find that the initial stereotypes of race ideology, which designated Africans as "savages," did not invoke differences in physical features but rather identified Africans as uncivilized heathens. Defenders of slavery, however, continued to develop race ideology by incorporating physical and behavioral aspects into it:
+> The defenders of slavery exaggerated human group differences and developed an ideology about these differences that dehumanized “the Negro” and demoted him in popular eyes to a status closer to the apes, placing the onus of slavery on its victims. . . . 
+> 
+> Race ideology was based in a belief in the existence of separate, distinct, and exclusive groups that were made unequal by God or nature. African Americans, the most inferior, were at the bottom of the hierarchy, European whites (some of them) were at the top. Each race was thought to have distinct physical and behavioral traits. Thus, we have the continuing stereotype of African Americans as lacking in intelligence, lazy, overly sexed, loud, irrational, musical, emotional, and superstitious. Finally, it was believed that these race differences were inherited and immutable; thus, they could not be transformed or transcended (see Smedley 2007).
+
+We find that in the course of race ideology development, defenders of slavery were looking for any physical and social difference between Africans and other populations. These differences would be tied into a social narrative that was used to justify the social positions of Africans as slaves. Over the course of this development, both physical and behavioral traits would end up being essentialized to race and become considered as inherited and immutable. 
+
+By 1865, the Civil War had ended slavery but did not end race, which continued to mark social status and be used as a lens to interpret and understand human diversity. Smedley describes how
+> After the Civil War, white Americans had been so deeply conditioned to the beliefs in the inferiority of the low-status races (blacks and Indians) that they could not accept them as equal citizens. They made enormous efforts to keep them separate and inferior and were largely successful as the statistics regarding the well-being and social and economic status of blacks and Indians demonstrate even today (Jones 2009; Macartney 2011).
 
 ### A Time Before Race
 
