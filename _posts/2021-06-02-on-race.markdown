@@ -5,7 +5,7 @@ date:   2021-06-02 11:30:00 -0700
 categories: 
 ---
 
-## Content
+## Contents
 
 - 1\. What is Race?
 - 2\. Race as a Social Phenomenon

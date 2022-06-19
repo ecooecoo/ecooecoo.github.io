@@ -28,7 +28,6 @@ twitter_username:
 github_username: 
 header_pages:
   - blog.markdown 
-  - writing.markdown
   - chester-the-birb.markdown
 future: true
 
